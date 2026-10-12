@@ -235,4 +235,4 @@ This repository serves as the official landing page for SpyHunter. The software 
 **Get the most recent version of SpyHunter today!**
 
 ---
-**Last updated:** 2026-10-12 12:49:22 UTC
+**Last updated:** 2026-10-12 21:35:51 UTC
